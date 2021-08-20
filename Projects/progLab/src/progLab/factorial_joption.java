@@ -19,9 +19,9 @@ public class factorial_joption {
 		
 		// Display the Factorial result using JOptionPane, Message Dialog
 		
-		/*JOptionPane.showMessageDialog(
+		JOptionPane.showMessageDialog(
 				null, 
 				"Factorial is => "+test.factorial(n)
-				);*/
+				);
 	}
 }
